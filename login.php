@@ -23,7 +23,7 @@ if (
             <div class="row justify-content-center ">
                 <div class="col-md-3 mt-5">
                     <div class="card border-success mb-3 ">
-                        <div class="card-header" style="text-align : center;">LOGIN FORM UY</div>
+                        <div class="card-header" style="text-align : center;">LOGIN FORM</div>
                         <div class="card-body text-success">
                             <div class="row ">
                                 <div class="col-md-12 ">
